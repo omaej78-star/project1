@@ -1,2 +1,2 @@
-# project1
+# Project1
 first project on git hub
