@@ -1,0 +1,9 @@
+# Local secret files
+.env
+.env.*
+!.env.example
+
+# Dependency and build output
+node_modules/
+dist/
+.cache/
