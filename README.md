@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Project1
-first project on git hub
-=======
 # John Omae portfolio
 
 A responsive, local-first single-page portfolio. Open `index.html` through a static web server (rather than double-clicking it) so browser security features and module imports behave consistently.
@@ -26,4 +22,3 @@ python -m http.server 8080
 ```
 
 For deployment, configure the host to apply the headers in `_headers`, set the production site to HTTPS, and populate secrets from the host's secret manager rather than committing an `.env` file.
->>>>>>> 12c629d (update p..)
